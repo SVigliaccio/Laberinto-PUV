@@ -1,6 +1,6 @@
 <b>Desarrolladores:  Pistoia Adriano y Vigliaccio Sofía.</b>
 <br>
-<p bgcolor:"red">
 Tiempo empleado:  240hs aprox.
+<br>
 Nombre del juego: LABERINTO PUV 
-</p>
+
