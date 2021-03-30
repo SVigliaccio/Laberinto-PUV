@@ -19,4 +19,17 @@ gemas (de diferentes puntos) que podrás recoger, tambien te encontrarás con ca
 se necesita un poquito de conocimiento en C++. El laberinto tiene un tiempo límite, si no lográs completarlo dentro del mismo <br>
 perderás. Pero HEY! contás con el beneficio de las trivias! cuando estás contestando una, el tiempo del laberinto se congela y <br>
 además, al responderlas correctamente (también cuentan con tiempo límite), el tiempo sobrante de ésta se te sumará a la del <br>
-tablero (marco superior donde aparecen los datos de las gemas y el tiempo restante del laberinto). <br>
+tablero (marco superior donde aparecen las gemas recogidas y el tiempo restante del laberinto). <br>
+Al finalizar el laberinto, aparecerá un tablero informando la cantidad de gemas recogidas, el tiempo empleado y los puntos <br>
+totales; si tu puntaje generó un nuevo record, al presionar la tecla "enter" te pedirá que ingreses un nombre para agregarte <br>
+al ranking, luego al volver apretar "enter" dicho ranking se mostrará por pantalla. También se puede acceder al mismo desde <br>
+el menú principal. <br>
+<br>
+Al ejecutar el programa se visualiza el menú principal donde contás con 4 opciones: "Jugar", "Ranking", "Créditos", "Salir". <br>
+Obviando la función de "Jugar# y "Salir", en "Ranking" se encuentra el tablero con los 5 mejores jugadores y sus respectivos <br>
+puntajes. <br>
+En "Créditos" se podrán encontrar los agradecimientos y menciones a personas, herramientas utilizadas y páginas consultadas, <br>
+que hicieron posible este desarrollo.<br>
+<br>
+Les enviamos saludos cordiales a quién sea que esté pispeando nuestro trabajo.!
+
