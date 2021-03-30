@@ -10,4 +10,6 @@ perteneciente a la Universidad Tecnológica Nacional FRGP. <br>
 Ya que en la carrera no se estudia programación de videojuegos, fué un proyecto realizado con investigación propia y motivación <br>
 por parte de un profesor en particular de la facultad, el Lic. Brian Lara. <br>
 Las ilustraciones fueron realizadas por nosotros, desde el personaje hasta las gemas, el terreno y las sombras. TODAS. <br>
+Las fuentes fueron extraidas de respectivos autores, cual mención fue hecha en los creditos del juego. <br>
 Las herramientas implementadas para las ilustraciones fueron PAINT 3D y PIXELART (web). <br>
+
